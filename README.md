@@ -54,6 +54,9 @@ timer(
   Заголовки конвертируются в понятный вид. У Вас не будет 2 дней 8 минуты
 </p>
 
+##Show
+https://stenready.github.io/countdown-timer/
+
 ##Author
 <p>
   https://github.com/stenready
