@@ -101,4 +101,3 @@ const timer=(end_date, renders, titles={ days: 'День Дней Дни', hours
 
 }
 
-export default timer
